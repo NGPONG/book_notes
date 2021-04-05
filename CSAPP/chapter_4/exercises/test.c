@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-  int x = 1;
-  printf("%d\n", x);
+  int a = 1, b = 2, c= 3;
   
+
   return EXIT_SUCCESS;
 }
